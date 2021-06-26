@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "623997834283",
+    "project_id": "final-app-bake-it",
+    "storage_bucket": "final-app-bake-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623997834283:android:2e5be6521ead02b191466e",
+        "android_client_info": {
+          "package_name": "com.example.bakeitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623997834283-ds380as55ic04dtuclc6ptjtsuofki75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bakeitapp",
+            "certificate_hash": "d8d9507e399565cb01fdf7ba22013ea9136b5bd6"
+          }
+        },
+        {
+          "client_id": "623997834283-pjqis1qg5im4ij12ve66h31k3j6gnts1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkj5ETB5xa6HobfS_9pUDan_JdVWPxaSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623997834283-pjqis1qg5im4ij12ve66h31k3j6gnts1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

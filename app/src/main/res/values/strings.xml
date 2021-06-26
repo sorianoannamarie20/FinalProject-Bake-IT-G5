@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bake IT</string>
+    <string name="no_account">Not have yet account? <b>SignUp</b></string>
+</resources>
